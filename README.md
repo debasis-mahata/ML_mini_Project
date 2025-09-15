@@ -1,5 +1,5 @@
 # ML_mini_Project
-<h3>Hobby Expansion for SNU Clubs</h3>
+<h3>Project Name : Hobby Expansion for SNU Clubs</h3>
 <br>
 <hr></hr>
-Authors: DEBASIS MAHATA & SUVANKAR PARIA
+<h3>Authors:</h3> <h4>DEBASIS MAHATA & SUVANKAR PARIA</h4>
